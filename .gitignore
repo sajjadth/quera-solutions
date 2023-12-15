@@ -1,0 +1,20 @@
+# Go specific
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+/_test
+
+# Compiled Object files, Static and Dynamic libs (Shared Objects)
+*.o
+*.a
+*.lib
+*.so
+*.so.*
+*.dylib
+
+# Folders
+_vendor/
+vendor/
+bin/
