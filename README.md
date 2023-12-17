@@ -4,9 +4,10 @@ This repository contains solutions to programming problems from Quera. Each prob
 
 ## Problems
 
-| Problem ID | Problem Name | Solution Link             |
-| ---------- | ------------ | ------------------------- |
-| 51866      | cafe cake    | [Link](cafe-cake/main.go) |
+| Problem ID | Problem Name                          | Solution Link                                         |
+| ---------- | ------------------------------------- | ----------------------------------------------------- |
+| 51866      | cafe cake                             | [Link](cafe-cake/main.go)                             |
+| 197002     | legendary-twins-and-necklace-shopping | [Link](legendary-twins-and-necklace-shopping/main.go) |
 
 ## Running a Solution
 
