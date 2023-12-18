@@ -8,6 +8,7 @@ This repository contains solutions to programming problems from Quera. Each prob
 | ---------- | ------------------------------------- | ----------------------------------------------------- |
 | 51866      | cafe cake                             | [Link](cafe-cake/main.go)                             |
 | 197002     | legendary-twins-and-necklace-shopping | [Link](legendary-twins-and-necklace-shopping/main.go) |
+| 175187     | screaming                             | [Link](screaming/main.go)                             |
 
 ## Running a Solution
 
