@@ -10,6 +10,7 @@ This repository contains solutions to programming problems from Quera. Each prob
 | 197002     | legendary-twins-and-necklace-shopping | [Link](legendary-twins-and-necklace-shopping/main.go) |
 | 175187     | screaming                             | [Link](screaming/main.go)                             |
 | 158168     | binary-strings                        | [Link](binary-strings/main.go)                        |
+| 605        | tiling                                | [Link](tiling/main.go)                                |
 
 ## Running a Solution
 
