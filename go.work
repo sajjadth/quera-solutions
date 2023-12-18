@@ -1,6 +1,7 @@
 go 1.21.4
 
 use (
+	./binary-strings
 	./cafe-cake
 	./legendary-twins-and-necklace-shopping
 	./screaming
