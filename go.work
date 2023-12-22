@@ -5,6 +5,7 @@ use (
 	./binary-strings
 	./cafe-cake
 	./farzad-filmbin
+	./four-numbers
 	./legendary-twins-and-necklace-shopping
 	./print-the-number
 	./screaming
