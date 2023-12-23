@@ -16,6 +16,7 @@ This repository contains solutions to programming problems from Quera. Each prob
 | 655        | farzad-filmbin                        | [Link](farzad-filmbin/main.go)                        |
 | 177663     | four-numbers                          | [Link](four-numbers/main.go)                          |
 | 211018     | mountaineering-information            | [Link](mountaineering-information/main.go)            |
+| 197305     | moving-average                        | [Link](moving-average/q1.py)                          |
 
 ## Running a Solution
 
