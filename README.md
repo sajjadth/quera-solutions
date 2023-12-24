@@ -18,6 +18,7 @@ This repository contains solutions to programming problems from Quera. Each prob
 | 211018     | mountaineering-information            | [Link](mountaineering-information/main.go)            |
 | 197305     | moving-average                        | [Link](moving-average/q1.py)                          |
 | 193464     | cars-the-winning-mystery              | [Link](cars-the-winning-mystery/main.go)              |
+| 193460     | mario-and-online-shop                 | [Link](mario-and-online-shop/main.go)                 |
 
 ## Running a Solution
 
