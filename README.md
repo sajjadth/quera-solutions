@@ -21,6 +21,7 @@ This repository contains solutions to programming problems from Quera. Each prob
 | 193460     | mario-and-online-shop                 | [Link](mario-and-online-shop/main.go)                 |
 | 182260     | i-love-mockstar                       | [Link](i-love-mockstar/dynamic.css)                   |
 | 182261     | it-services                           | [Link](it-services/dynamic.css)                       |
+| 179662     | fencing                               | [Link](fencing/main.go)                               |
 
 ## Running a Solution
 
