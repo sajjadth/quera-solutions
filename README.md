@@ -19,6 +19,7 @@ This repository contains solutions to programming problems from Quera. Each prob
 | 197305     | moving-average                        | [Link](moving-average/q1.py)                          |
 | 193464     | cars-the-winning-mystery              | [Link](cars-the-winning-mystery/main.go)              |
 | 193460     | mario-and-online-shop                 | [Link](mario-and-online-shop/main.go)                 |
+| 182260     | i-love-mockstar                       | [Link](i-love-mockstar/main.go)                       |
 
 ## Running a Solution
 
