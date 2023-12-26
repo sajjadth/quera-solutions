@@ -22,6 +22,7 @@ This repository contains solutions to programming problems from Quera. Each prob
 | 182260     | i-love-mockstar                       | [Link](i-love-mockstar/dynamic.css)                   |
 | 182261     | it-services                           | [Link](it-services/dynamic.css)                       |
 | 179662     | fencing                               | [Link](fencing/main.go)                               |
+| 2756       | inexperienced-calculator-user         | [Link](inexperienced-calculator-user/main.go)         |
 
 ## Running a Solution
 
