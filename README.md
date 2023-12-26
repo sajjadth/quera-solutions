@@ -23,6 +23,7 @@ This repository contains solutions to programming problems from Quera. Each prob
 | 182261     | it-services                           | [Link](it-services/dynamic.css)                       |
 | 179662     | fencing                               | [Link](fencing/main.go)                               |
 | 2756       | inexperienced-calculator-user         | [Link](inexperienced-calculator-user/main.go)         |
+| 80645      | infinite-tally                        | [Link](infinite-tally/main.go)                        |
 
 ## Running a Solution
 

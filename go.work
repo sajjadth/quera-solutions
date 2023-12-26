@@ -9,6 +9,7 @@ use (
 	./fencing
 	./four-numbers
 	./inexperienced-calculator-user
+	./infinite-tally
 	./legendary-twins-and-necklace-shopping
 	./mario-and-online-shop
 	./mountaineering-information
