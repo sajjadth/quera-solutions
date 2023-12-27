@@ -24,6 +24,7 @@ This repository contains solutions to programming problems from Quera. Each prob
 | 179662     | fencing                               | [Link](fencing/main.go)                               |
 | 2756       | inexperienced-calculator-user         | [Link](inexperienced-calculator-user/main.go)         |
 | 80645      | infinite-tally                        | [Link](infinite-tally/main.go)                        |
+| 33046      | never-be-proud                        | [Link](never-be-proud/main.go)                        |
 
 ## Running a Solution
 
