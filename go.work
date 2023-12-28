@@ -3,6 +3,7 @@ go 1.21.5
 use (
 	./beautiful-face
 	./binary-strings
+	./box-of-chocolates
 	./cafe-cake
 	./cars-the-winning-mystery
 	./farzad-filmbin
