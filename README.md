@@ -26,6 +26,7 @@ This repository contains solutions to programming problems from Quera. Each prob
 | 80645      | infinite-tally                        | [Link](infinite-tally/main.go)                        |
 | 33046      | never-be-proud                        | [Link](never-be-proud/main.go)                        |
 | 178906     | box-of-chocolates                     | [Link](box-of-chocolates/main.go)                     |
+| 136480     | nowruz-promotion                      | [Link](nowruz-promotion/main.go)                      |
 
 ## Running a Solution
 
