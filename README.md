@@ -27,6 +27,7 @@ This repository contains solutions to programming problems from Quera. Each prob
 | 33046      | never-be-proud                        | [Link](never-be-proud/main.go)                        |
 | 178906     | box-of-chocolates                     | [Link](box-of-chocolates/main.go)                     |
 | 136480     | nowruz-promotion                      | [Link](nowruz-promotion/main.go)                      |
+| 181333     | classification-of-professors          | [Link](classification-of-professors/main.go)          |
 
 ## Running a Solution
 
