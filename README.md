@@ -30,6 +30,7 @@ This repository contains solutions to programming problems from Quera. Each prob
 | 181333     | classification-of-professors          | [Link](classification-of-professors/main.go)          |
 | 33038      | chiraksi                              | [Link](chiraksi/solution.py)                          |
 | 182547     | taxis                                 | [Link](taxis/main.go)                                 |
+| 176782     | friend-house                          | [Link](friend-house/main.py)                          |
 
 ## Running a Solution
 
