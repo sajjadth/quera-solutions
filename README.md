@@ -29,6 +29,7 @@ This repository contains solutions to programming problems from Quera. Each prob
 | 136480     | nowruz-promotion                      | [Link](nowruz-promotion/main.go)                      |
 | 181333     | classification-of-professors          | [Link](classification-of-professors/main.go)          |
 | 33038      | chiraksi                              | [Link](chiraksi/solution.py)                          |
+| 182547     | taxis                                 | [Link](taxis/main.go)                                 |
 
 ## Running a Solution
 

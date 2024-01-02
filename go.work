@@ -19,5 +19,6 @@ use (
 	./nowruz-promotion
 	./print-the-number
 	./screaming
+	./taxis
 	./tiling
 )
