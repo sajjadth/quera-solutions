@@ -31,6 +31,7 @@ This repository contains solutions to programming problems from Quera. Each prob
 | 33038      | chiraksi                              | [Link](chiraksi/solution.py)                          |
 | 182547     | taxis                                 | [Link](taxis/main.go)                                 |
 | 176782     | friend-house                          | [Link](friend-house/main.py)                          |
+| 187845     | pigeon-nest                           | [Link](pigeon-nest/main.py)                           |
 
 ## Running a Solution
 
