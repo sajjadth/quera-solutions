@@ -33,6 +33,7 @@ This repository contains solutions to programming problems from Quera. Each prob
 | 176782     | friend-house                          | [Link](friend-house/main.py)                          |
 | 187845     | pigeon-nest                           | [Link](pigeon-nest/main.py)                           |
 | 187843     | snake-on-the-table                    | [Link](snake-on-the-table/main.py)                    |
+| 144082     | cake-in-quera                         | [Link](cake-in-quera/main.py)                         |
 
 ## Running a Solution
 
