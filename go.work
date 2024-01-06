@@ -6,6 +6,7 @@ use (
 	./box-of-chocolates
 	./cafe-cake
 	./cars-the-winning-mystery
+	./catchment-area
 	./classification-of-professors
 	./farzad-filmbin
 	./fencing
@@ -19,6 +20,7 @@ use (
 	./nowruz-promotion
 	./print-the-number
 	./screaming
+	./seven-segment
 	./taxis
 	./tiling
 )

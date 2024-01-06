@@ -35,6 +35,7 @@ This repository contains solutions to programming problems from Quera. Each prob
 | 187843     | snake-on-the-table                    | [Link](snake-on-the-table/main.py)                    |
 | 144082     | cake-in-quera                         | [Link](cake-in-quera/main.py)                         |
 | 211019     | six-stone                             | [Link](six-stone/main.py)                             |
+| 18212      | seven-segment                         | [Link](seven-segment/main.go)                         |
 
 ## Running a Solution
 
