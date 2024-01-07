@@ -23,4 +23,5 @@ use (
 	./seven-segment
 	./taxis
 	./tiling
+	./tired-hundreds
 )
