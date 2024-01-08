@@ -37,6 +37,7 @@ This repository contains solutions to programming problems from Quera. Each prob
 | 211019     | six-stone                             | [Link](six-stone/main.py)                             |
 | 18212      | seven-segment                         | [Link](seven-segment/main.go)                         |
 | 3406       | tired-hundreds                        | [Link](tired-hundreds/main.go)                        |
+| 2885       | a-simple-question                     | [Link](a-simple-question/main.py)                     |
 
 ## Running a Solution
 
