@@ -38,6 +38,7 @@ This repository contains solutions to programming problems from Quera. Each prob
 | 18212      | seven-segment                         | [Link](seven-segment/main.go)                         |
 | 3406       | tired-hundreds                        | [Link](tired-hundreds/main.go)                        |
 | 2885       | a-simple-question                     | [Link](a-simple-question/main.py)                     |
+| 615        | date-of-birth                         | [Link](date-of-birth/main.py)                         |
 
 ## Running a Solution
 
