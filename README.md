@@ -40,6 +40,7 @@ This repository contains solutions to programming problems from Quera. Each prob
 | 2885       | a-simple-question                     | [Link](a-simple-question/main.py)                     |
 | 615        | date-of-birth                         | [Link](date-of-birth/main.py)                         |
 | 145639     | test-interval                         | [Link](test-interval/main.py)                         |
+| 3559       | catchment-area                        | [Link](catchment-area/main.go)                        |
 
 ## Running a Solution
 
