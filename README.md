@@ -41,6 +41,7 @@ This repository contains solutions to programming problems from Quera. Each prob
 | 615        | date-of-birth                         | [Link](date-of-birth/main.py)                         |
 | 145639     | test-interval                         | [Link](test-interval/main.py)                         |
 | 3559       | catchment-area                        | [Link](catchment-area/main.go)                        |
+| 178600     | corona-medicine                       | [Link](corona-medicine/main.py)                       |
 
 ## Running a Solution
 
