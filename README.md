@@ -42,6 +42,7 @@ This repository contains solutions to programming problems from Quera. Each prob
 | 145639     | test-interval                         | [Link](test-interval/main.py)                         |
 | 3559       | catchment-area                        | [Link](catchment-area/main.go)                        |
 | 178600     | corona-medicine                       | [Link](corona-medicine/main.py)                       |
+| 221462     | the-missing-point                     | [Link](the-missing-point/main.py)                     |
 
 ## Running a Solution
 
