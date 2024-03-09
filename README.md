@@ -43,6 +43,7 @@ This repository contains solutions to programming problems from Quera. Each prob
 | 3559       | catchment-area                        | [Link](catchment-area/main.go)                        |
 | 178600     | corona-medicine                       | [Link](corona-medicine/main.py)                       |
 | 221462     | the-missing-point                     | [Link](the-missing-point/main.py)                     |
+| 209103     | cartesian-table                       | [Link](cartesian-table/main.py)                       |
 
 ## Running a Solution
 
