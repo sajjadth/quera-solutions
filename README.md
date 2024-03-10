@@ -44,6 +44,7 @@ This repository contains solutions to programming problems from Quera. Each prob
 | 178600     | corona-medicine                       | [Link](corona-medicine/main.py)                       |
 | 221462     | the-missing-point                     | [Link](the-missing-point/main.py)                     |
 | 209103     | cartesian-table                       | [Link](cartesian-table/main.py)                       |
+| 218361     | opposite-in-the-subway                | [Link](opposite-in-the-subway/main.py)                |
 
 ## Running a Solution
 
