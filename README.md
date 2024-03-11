@@ -45,6 +45,7 @@ This repository contains solutions to programming problems from Quera. Each prob
 | 221462     | the-missing-point                     | [Link](the-missing-point/main.py)                     |
 | 209103     | cartesian-table                       | [Link](cartesian-table/main.py)                       |
 | 218361     | opposite-in-the-subway                | [Link](opposite-in-the-subway/main.py)                |
+| 221452     | sum-of-two-numbers                    | [Link](sum-of-two-numbers/main.py)                    |
 
 ## Running a Solution
 
