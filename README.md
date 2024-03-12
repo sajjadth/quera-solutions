@@ -47,6 +47,7 @@ This repository contains solutions to programming problems from Quera. Each prob
 | 218361     | opposite-in-the-subway                | [Link](opposite-in-the-subway/main.py)                |
 | 221452     | sum-of-two-numbers                    | [Link](sum-of-two-numbers/main.py)                    |
 | 175188     | sleight                               | [Link](sleight/main.py)                               |
+| 182276     | course-selection                      | [Link](course-selection/main.py)                      |
 
 ## Running a Solution
 
