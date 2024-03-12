@@ -48,6 +48,7 @@ This repository contains solutions to programming problems from Quera. Each prob
 | 221452     | sum-of-two-numbers                    | [Link](sum-of-two-numbers/main.py)                    |
 | 175188     | sleight                               | [Link](sleight/main.py)                               |
 | 182276     | course-selection                      | [Link](course-selection/main.py)                      |
+| 17676      | dominoes                              | [Link](dominoes/main.py)                              |
 
 ## Running a Solution
 
