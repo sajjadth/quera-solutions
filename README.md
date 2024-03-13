@@ -49,6 +49,7 @@ This repository contains solutions to programming problems from Quera. Each prob
 | 175188     | sleight                               | [Link](sleight/main.py)                               |
 | 182276     | course-selection                      | [Link](course-selection/main.py)                      |
 | 17676      | dominoes                              | [Link](dominoes/main.py)                              |
+| 91711      | bad-charger                           | [Link](bad-charger/main.py)                           |
 
 ## Running a Solution
 
