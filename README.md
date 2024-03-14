@@ -50,6 +50,7 @@ This repository contains solutions to programming problems from Quera. Each prob
 | 182276     | course-selection                      | [Link](course-selection/main.py)                      |
 | 17676      | dominoes                              | [Link](dominoes/main.py)                              |
 | 91711      | bad-charger                           | [Link](bad-charger/main.py)                           |
+| 57760      | until-nowruz                          | [Link](until-nowruz/main.py)                          |
 
 ## Running a Solution
 
