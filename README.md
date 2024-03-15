@@ -51,6 +51,7 @@ This repository contains solutions to programming problems from Quera. Each prob
 | 17676      | dominoes                              | [Link](dominoes/main.py)                              |
 | 91711      | bad-charger                           | [Link](bad-charger/main.py)                           |
 | 57760      | until-nowruz                          | [Link](until-nowruz/main.py)                          |
+| 226338     | snake-bend                            | [Link](snake-bend/main.py)                            |
 
 ## Running a Solution
 
