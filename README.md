@@ -52,6 +52,7 @@ This repository contains solutions to programming problems from Quera. Each prob
 | 91711      | bad-charger                           | [Link](bad-charger/main.py)                           |
 | 57760      | until-nowruz                          | [Link](until-nowruz/main.py)                          |
 | 226338     | snake-bend                            | [Link](snake-bend/main.py)                            |
+| 218362     | circular-city                         | [Link](circular-city/main.py)                         |
 
 ## Running a Solution
 
