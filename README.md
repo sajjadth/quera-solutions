@@ -54,6 +54,7 @@ This repository contains solutions to programming problems from Quera. Each prob
 | 226338     | snake-bend                            | [Link](snake-bend/main.py)                            |
 | 218362     | circular-city                         | [Link](circular-city/main.py)                         |
 | 60135      | chesstml                              | [Link](chesstml/main.py)                              |
+| 132252     | parquet-2020                          | [Link](parquet-2020/main.py)                          |
 
 ## Running a Solution
 
