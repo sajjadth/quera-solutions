@@ -55,6 +55,7 @@ This repository contains solutions to programming problems from Quera. Each prob
 | 218362     | circular-city                         | [Link](circular-city/main.py)                         |
 | 60135      | chesstml                              | [Link](chesstml/main.py)                              |
 | 132252     | parquet-2020                          | [Link](parquet-2020/main.py)                          |
+| 296        | special-square                        | [Link](special-square/main.py)                        |
 
 ## Running a Solution
 
