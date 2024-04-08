@@ -58,6 +58,7 @@ This repository contains solutions to programming problems from Quera. Each prob
 | 296        | special-square                        | [Link](special-square/main.py)                        |
 | 298        | first-factors                         | [Link](first-factors/main.py)                         |
 | 9722       | hard-passwords                        | [Link](hard-passwords/main.py)                        |
+| 82378      | petrol                                | [Link](petrol/main.py)                                |
 
 ## Running a Solution
 
