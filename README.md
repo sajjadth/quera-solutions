@@ -60,6 +60,7 @@ This repository contains solutions to programming problems from Quera. Each prob
 | 9722       | hard-passwords                        | [Link](hard-passwords/main.py)                        |
 | 82378      | petrol                                | [Link](petrol/main.py)                                |
 | 145366     | maximum-edge-of-graph                 | [Link](maximum-edge-of-graph/main.py)                 |
+| 228669     | border-towns                          | [Link](border-towns/main.py)                          |
 
 ## Running a Solution
 
