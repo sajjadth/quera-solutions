@@ -61,6 +61,7 @@ This repository contains solutions to programming problems from Quera. Each prob
 | 82378      | petrol                                | [Link](petrol/main.py)                                |
 | 145366     | maximum-edge-of-graph                 | [Link](maximum-edge-of-graph/main.py)                 |
 | 228669     | border-towns                          | [Link](border-towns/main.py)                          |
+| 168950     | seasons                               | [Link](seasons/main.py)                               |
 
 ## Running a Solution
 
