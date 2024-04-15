@@ -63,6 +63,7 @@ This repository contains solutions to programming problems from Quera. Each prob
 | 228669     | border-towns                          | [Link](border-towns/main.py)                          |
 | 168950     | seasons                               | [Link](seasons/main.py)                               |
 | 26109      | icpc                                  | [Link](icpc/main.py)                                  |
+| 26110      | chaarshanbegaa-at-cafebazaar          | [Link](chaarshanbegaa-at-cafebazaar/main.py)          |
 
 ## Running a Solution
 
