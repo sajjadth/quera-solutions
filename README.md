@@ -64,6 +64,7 @@ This repository contains solutions to programming problems from Quera. Each prob
 | 168950     | seasons                               | [Link](seasons/main.py)                               |
 | 26109      | icpc                                  | [Link](icpc/main.py)                                  |
 | 26110      | chaarshanbegaa-at-cafebazaar          | [Link](chaarshanbegaa-at-cafebazaar/main.py)          |
+| 104588     | first-fruits                          | [Link](first-fruits/main.py)                          |
 
 ## Running a Solution
 
