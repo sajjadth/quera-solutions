@@ -65,6 +65,7 @@ This repository contains solutions to programming problems from Quera. Each prob
 | 26109      | icpc                                  | [Link](icpc/main.py)                                  |
 | 26110      | chaarshanbegaa-at-cafebazaar          | [Link](chaarshanbegaa-at-cafebazaar/main.py)          |
 | 104588     | first-fruits                          | [Link](first-fruits/main.py)                          |
+| 3539       | single-digit                          | [Link](single-digit/main.py)                          |
 
 ## Running a Solution
 
