@@ -71,6 +71,7 @@ This repository contains solutions to programming problems from Quera. Each prob
 | 633        | calculation-of-polynomial-coefficients | [Link](calculation-of-polynomial-coefficients/main.py) |
 | 660        | celebration-of-gifts                   | [Link](celebration-of-gifts/main.py)                   |
 | 52544      | barcode                                | [Link](barcode/main.py)                                |
+| 41172      | cake                                   | [Link](cake/main.py)                                   |
 
 ## Running a Solution
 
