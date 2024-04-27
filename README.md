@@ -72,6 +72,7 @@ This repository contains solutions to programming problems from Quera. Each prob
 | 660        | celebration-of-gifts                   | [Link](celebration-of-gifts/main.py)                   |
 | 52544      | barcode                                | [Link](barcode/main.py)                                |
 | 41172      | cake                                   | [Link](cake/main.py)                                   |
+| 10169      | pyramid-companies-in-barre             | [Link](pyramid-companies-in-barre/main.py)             |
 
 ## Running a Solution
 
